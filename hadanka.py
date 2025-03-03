@@ -1,7 +1,7 @@
 right_answers = ["Harry Potter", "Albus Brumbál", "Sirius Black", "Severus Snape"]
 user_answers = []
 questions = [
-    "Jak se jmenuje hlavní hrdina?",
+    "Jak se jmenuje hlavní hrdina v Harry Pottrovy?",
     "Jak se jmenuje ředitel Bradavic?",
     "Jak se jmenuje kmotr Harryho Pottera?",
     "Jak se jmenuje kouzelník, který vymyslel zaklínadlo Sectumsempra?"
