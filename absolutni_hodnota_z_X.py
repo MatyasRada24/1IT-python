@@ -1,4 +1,4 @@
-#Jednodušží cesta.
+#Jednodužší cesta.
 n = 100
 print(abs(n))
 
