@@ -18,3 +18,5 @@ vklad = float(input("Zadejte měsíční vklad (v Kč): "))
 
 vysledek = spocitej_investici(puvodni_castka, zhodnoceni, n, vklad)
 print(f"Po {n} letech bude částka činit přibližně {vysledek:.2f} Kč.")
+
+*Silná pomoc od Chat GPT*
