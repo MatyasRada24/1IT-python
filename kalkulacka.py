@@ -13,3 +13,5 @@ elif operace == "**":
     print(x ** y)
 elif operace == "//":
     print(x // y)
+else:
+    print("Error. Napiš realnou operaci. (+, -, *, /, **, //)")
